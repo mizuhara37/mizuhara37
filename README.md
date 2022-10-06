@@ -9,6 +9,7 @@
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
 <br>
+
 ## Hello
 
 ✍️&nbsp;&nbsp;My name is Mizuhara37.
@@ -21,7 +22,6 @@ One of my favorite words comes from the unlimited progress of the Up master "Med
 
 💪 I am studying: 
 
-&emsp;&emsp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
