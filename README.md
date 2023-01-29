@@ -12,28 +12,7 @@ Programming is one of my hobbies. I think it can not only relax me, but also imp
 
 "Infinite Progress" my favorite words comes from the Up master "Mediastorm" in Bili Bili. I feel that I am making continuous progress. I started out as a pure C++console program, and now I am skilled in using HTML as an image program. Contrail Online, which I am currently developing, is the largest project in history in my opinion. It was completed by me alone. If you are interested, you can have a look at it. You can enter Contrail Team ---- it is also a team I created.
 
-I really love programming. You can definitely see it in the Bright Launcher v1.1 release information👇
-<hr>
-I'm really honored to release our version of bright launcher V1.1.0. This is our first attempt at graphics, which is undoubtedly very successful, whether it's switching pictures, or playing pictures and music (Sony Playstation 4 Music, we don't have commercial).
 
-I once tried scratch3.0, but it ended in failure. Then I still wrote c++ programs by myself, but whether the console program is single does not conform to modern contrivance concepts and concepts. Until recently, when we were building a website, I would think of the website converted from scratch3.0 with nwjs, so I began to try. Html is undoubtedly the best choice for people who have not studied graphical programming. I also have to thank the template provided by html5up, which is used by my website and launcher. The rapid completion of HTML gives me a sense of achievement of learning the language newly.
-
-Time really passed quickly. I just came into contact with programming in 2019. At that time, I only knew Pascal and learned to win awards in competitions. When I was bored, I would write my own program. At that time, I wrote the prototype of bright North launcher (a very early version, but after 2020), the console, and input the serial number into the module. At that time, I remember that I also played guessing games, all kinds of; Three years passed quickly. When I looked back, I really found that I had made a lot of progress. Next semester is the third day of junior high school. I will face the first challenge in my life - the high school entrance examination. I know I will put down some of my projects and meet the examination, so the development speed will be very slow in the future.
-
-I tried QT, c#, python again and again, but I didn't give up
-Thank you for reading here. Here are our updates:
-
-Reasonably call the official website, [our official website]（ http://bright-studio.github.io )
-1. Graphical
-2. Visualization
-3. Controllability
-4. Networking
-5. Real time
-
-Because this update really contains too much content, I'm undoubtedly excited to write here. I finally took the first step of graphing!
-
-The only junior high school developer in bright east 2022: Mizuhara37
-<hr>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizuhara37)](https://github.com/Mizuhara37)
 
 ![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizuhara37&show_icons=true&theme=tokyonight)
