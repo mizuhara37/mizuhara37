@@ -56,7 +56,7 @@ Programming is one of my hobbies. I think it can not only relax me, but also imp
 ```
 ```html
   <div id="What_I_Want">
-      <p id="My_Dream_High_School">Cixi Master School</p>
+      <p id="My_Dream_High_School">Cixi High School</p>
       <p id="My_Dream_Company">Microsoft</p>
       <p id="My_Dream_Life">Stayed with my beloved</p>
   </div>
