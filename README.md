@@ -8,9 +8,8 @@
 ## Hello✍️
 
 My name is Mizuhara37.
-Programming is one of my hobbies. I think it can not only relax me, but also improve my thinking. I was OIer before the eighth grade. I like to do some interesting things. For example, Bright Studio, which I set up with my deskmate, iterated several versions of Bright Launcher and built the Bright official website.
-
-"Infinite Progress" my favorite words comes from the Up master "Mediastorm" in Bili Bili. I feel that I am making continuous progress. I started out as a pure C++console program, and now I am skilled in using HTML as an image program. Contrail Online, which I am currently developing, is the largest project in history in my opinion. It was completed by me alone. If you are interested, you can have a look at it. You can enter Contrail Team ---- it is also a team I created.
+Programming is one of my hobbies. I think it can not only relax me, but also improve my thinking. I was OIer before the eighth grade. I like to do some interesting things. 
+"Infinite Progress" my favorite words comes from the Up master "Mediastorm" in BiliBili. I feel that I am making continuous progress. I started out as a pure C++console program, and now I am skilled in using HTML as an image program. Contrail Online, which I am currently developing, is the largest project in history in my opinion. It was completed by me alone. If you are interested, you can have a look at it. You can enter Contrail Team ---- it is also a team I created.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizuhara37)](https://github.com/Mizuhara37)
@@ -34,16 +33,6 @@ Programming is one of my hobbies. I think it can not only relax me, but also imp
 ![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
 
-<div align="center">
-  <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
-  <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
-  <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
-  <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
-  <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
-</div>
-
 ## 😐 But I'm still wondering...
 
 ```js
@@ -56,7 +45,7 @@ Programming is one of my hobbies. I think it can not only relax me, but also imp
 ```
 ```html
   <div id="What_I_Want">
-      <p id="My_Dream_High_School">Cixi High School</p>
+      <p id="My_Dream_High_School">Cixi High School(but i failed T_T</p>
       <p id="My_Dream_Company">Microsoft</p>
       <p id="My_Dream_Life">Stayed with my beloved</p>
   </div>
@@ -67,6 +56,8 @@ Programming is one of my hobbies. I think it can not only relax me, but also imp
 ```pascal
   write('I Promise.I will succeed!');
 ```
+
+![](https://raw.githubusercontent.com/mizuhara37/mizuhara37/output/github-contribution-grid-snake.svg)
 ##### Thank you!
 
 
