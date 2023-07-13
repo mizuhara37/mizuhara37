@@ -53,6 +53,9 @@ Programming is one of my hobbies. I think it can not only relax me, but also imp
 ```c
   cout<<"And remember my favorite saying 'Infinite Progress'!"<<endl;
 ```
+```c#
+   writeLine('Japanese anime is my life.');
+```
 ```pascal
   write('I Promise.I will succeed!');
 ```
