@@ -1,63 +1,55 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-<!-- 敲代码的图片 -->
-<div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div>
-<br>
+<div align="center"><img alt="黑川赤音天下第一！！！！" src="assets/akane.png"></div>
 
-## Hello✍️
+## 私🫡
+<h5 align=center>私-->Watashi-->我</h5>
+很高兴您访问我几乎无人问津的主页！我是Mizuhara37（几乎所有平台的昵称），Mizuhara是2020年《租借女友》女主之一水原千鹤的“水原”的罗马音，因为看着好看，尽管读起来不顺口，但还是用到现在。37是我学号之一，也是因为看着好看。
 
+我计算机萌芽是从抱奶瓶时开始，三四岁的时候玩7k7k,4399里的Flash游戏。于是有了我计算机经历，它是在四年级开始，初学Pascal，后来转入面向竞赛的程序设计培训，六年级市内的三等奖使我幸运地进入了我市最好初中的编程班（所谓的），初一初二编了两年，再无奖状入账，在那之后完全“退役”。于是我发现计算机它只能是我的兴趣爱好。所以不如做一点学一点有用的东西，于是就有了你眼前所看到的主页。
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mizuhara37)](https://github.com/Mizuhara37)
+我很喜欢玩游戏，又上文就可以知道，没有游戏，我就没有现在。
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizuhara37&show_icons=true&theme=tokyonight)
+喜欢Suki❤️：地平线5，死亡搁浅，女神异闻录5，泰坦陨落2
 
-## 💪 I am studying: 
+平常Tsuujou😎：CSGO，Muse Dash，女神异闻录5
+## アニメ📺
+<h5 align=center>アニメ-->Anime-->日本动画</h5>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Nodejs](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
+日本动画就是我的命根子。我常常会因动漫角色产生共情，我也常常会因一部动漫的完结而感到空虚。我想我对动漫的情感完全不亚于对于游戏的热情。不论头图中“现在的天才”的黑川赤音，头像中的星野露比，还是泷奈的Sakana， 波奇酱可爱的社恐，对于我来说，这是我的精神动力，也是我人生中炫彩的妆点。我相信20年后的今天，我仍会热爱动漫！
+<div align="center"><img alt="Sakana！" src="assets/sakana.gif"><img alt="我是小孤独" src="assets/bocchi.gif"></div>
 
-## The tools that I use
-
-![Edge](https://img.shields.io/badge/Edge-0078D7?style=flat-square&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=fff)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-FCC624?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-pink?style=flat-square&logo=github)
-
-## 😐 But I'm still wondering...
+## まだ不思議🫠
+<h5 align=center>まだ不思議-->Still Wonder-->仍然想知道</h5>
 
 ```js
-  function My_Will()
+  function 我祈祷()
   {
-      const studying_hard="The studying of life";
-      const still_loving_program="The program of life";
-      const continuous_innovation="Innovative life";
+      const 努力学习="学习人生";
+      const 仍然爱游戏="游戏人生(No games,no lives)";
   }
 ```
 ```html
-  <div id="What_I_Want">
-      <p id="My_Dream_High_School">Cixi High School(but i failed T_T</p>
-      <p id="My_Dream_Company">Microsoft</p>
-      <p id="My_Dream_Life">Stayed with my beloved</p>
+  <div id="我想要">
+      <p id="我梦想的高中">慈溪中学(但是我失败了T_T)</p>
+      <p id="我梦想的公司">微软</p>
+      <p id="我梦想的生活">Stayed with my beloved(自己翻译吧)</p>
   </div>
 ```
 ```c
-  cout<<"And remember my favorite saying 'Infinite Progress'!"<<endl;
+  cout<<"我记得影视飓风的无限进步!"<<endl;
 ```
 ```c#
-   writeLine("Japanese anime is my life.");
-```
-```pascal
-  write('I Promise.I will succeed!');
+   writeLine("日本动漫是我的命根子");
 ```
 
-![](https://raw.githubusercontent.com/mizuhara37/mizuhara37/output/github-contribution-grid-snake.svg)
-##### Thank you!
+## Github
 
+<a href="https://github.com/Mizuhara37">
 
+| Top Language by Repo                                         | My Stats                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizuhara37&layout=donut&theme=dracula&locale=cn&hide_border=true" width="800"> | <img src="https://github-readme-stats.vercel.app/api?username=Mizuhara37&theme=dracula&locale=cn&hide_border=true" width="1200"> |
+</a>
 
+<a href="https://github.com/Mizuhara37">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizuhara37&theme=dracula" width="100%">
+</a>
