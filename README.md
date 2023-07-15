@@ -1,4 +1,4 @@
-<div align="center"><img alt="黑川赤音天下第一！！！！" src="assets/akane.png"></div>
+<div align="center"><img alt="黑川赤音天下第一！！！！" src="http://47.113.194.233:3000/Mizuhara37/AHomePageImg/raw/commit/2faea73df0e646ca136ab218e3b959edaf090bef/akane.jpg"></div>
 
 ## 私🫡
 <h5 align=center>私-->Watashi-->我</h5>
