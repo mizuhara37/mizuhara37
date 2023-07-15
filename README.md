@@ -15,7 +15,7 @@
 <h5 align=center>アニメ-->Anime-->日本动画</h5>
 
 日本动画就是我的命根子。我常常会因动漫角色产生共情，我也常常会因一部动漫的完结而感到空虚。我想我对动漫的情感完全不亚于对于游戏的热情。不论头图中“现在的天才”的黑川赤音，头像中的星野露比，还是泷奈的Sakana， 波奇酱可爱的社恐，对于我来说，这是我的精神动力，也是我人生中炫彩的妆点。我相信20年后的今天，我仍会热爱动漫！
-<div align="center"><img alt="Sakana！" src="assets/sakana.gif"><img alt="我是小孤独" src="assets/bocchi.gif"></div>
+<div align="center"><img alt="Sakana！" src="http://47.113.194.233:3000/Mizuhara37/AHomePageImg/raw/commit/e2fc4db1f1897c92f9c428d31df8b10e84f90518/sakana.gif"><img alt="我是小孤独" src="http://47.113.194.233:3000/Mizuhara37/AHomePageImg/raw/commit/e2fc4db1f1897c92f9c428d31df8b10e84f90518/bocchi.gif"></div>
 
 ## まだ不思議🫠
 <h5 align=center>まだ不思議-->Still Wonder-->仍然想知道</h5>
