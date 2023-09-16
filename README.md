@@ -14,6 +14,11 @@ PC游戏的启蒙还是要等到差不多2018年，我试着玩了我哥电脑�
 
 平常Tsuujou😎：CSGO，Muse Dash，女神异闻录5，守望先锋：归西（）
 
+Some Links:
+
+- [Bilibili @Mizuhara37](https://space.bilibili.com/453162945)
+- [Pixiv @Hoshino Mizuhara](https://www.pixiv.net/users/98604629)
+
 ## アニメ📺
 <h5 align=center>アニメ-->Anime-->日本动画</h5>
 
