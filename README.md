@@ -16,7 +16,7 @@ PC游戏的启蒙还是要等到差不多2018年，我试着玩了我哥电脑�
 
 Some Links:
 
-- [Bilibili @Mizuhara37](https://space.bilibili.com/453162945)
+- [哔哩哔哩 @Mizuhara37](https://space.bilibili.com/453162945)
 - [Pixiv @Hoshino Mizuhara](https://www.pixiv.net/users/98604629)
 
 ## アニメ📺
