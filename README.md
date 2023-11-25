@@ -65,5 +65,3 @@ Some Links:
 <a href="https://github.com/Mizuhara37">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizuhara37&theme=dracula" width="100%">
 </a>
-
-// 这是我又一次大改吧，我真的受不了了，高中真的很讨厌
