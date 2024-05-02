@@ -22,19 +22,18 @@ Some Links:
 ```js
   function 我祈祷()
   {
-      const 努力学习="学习人生";
-      const 能好好活下去="减少点周期性的情绪低谷期吧";
+      const 努力学习="650";
   }
 ```
 ```html
   <div id="我想要">
       <p id="我梦想的高中">慈溪中学(但是我失败了T_T)</p>
       <p id="我梦想的公司">CloverWorks海外工作室</p>
-      <p id="我梦想的生活">自己一个人过，整年在房间里不出门</p>
+      <p id="我梦想的生活">日本独居</p>
   </div>
 ```
 ```c
-  cout<<"我记得影视飓风的无限进步！"<<endl;
+  cout<<"Ciallo~"<<endl;
 ```
 ```c#
    writeLine("动漫是我的命根子");
