@@ -16,12 +16,6 @@ Some Links:
 - [哔哩哔哩 @Mizuhara37](https://space.bilibili.com/453162945)
 - [Pixiv @Hoshino Mizuhara](https://www.pixiv.net/users/98604629)
 
-## アニメ📺
-<h5 align=center>アニメ-->Anime-->动画</h5>
-
-我毕生最大愿望第一是和真寻一样有那种药吃，第二是能去二次元的世界。现在我几乎所有的情感都寄托在一些动漫上，我知道现在这个状况会让我自己性格更加狭隘，我...
-<div align="center"><img alt="Sakana！" src="https://img1.imgtp.com/2023/07/14/KVqJnoxH.gif"><img alt="我是小孤独" src="https://img1.imgtp.com/2023/07/14/NqFQodEP.gif"></div>
-
 ## まだ不思議🫠
 <h5 align=center>まだ不思議-->Still Wonder-->仍然想知道</h5>
 
